@@ -22,4 +22,4 @@ wget -q -O - https://raw.githubusercontent.com/LedgerHQ/udev-rules/master/add_ud
 
 Followed instructions here: https://github.com/aguycalled/ledger-app-nav/releases/tag/317
 
-Remember to download the assets in put them in a folder and run the commands in that folder. I justed just downloaded the assets to the cloned electrum folder and ran everything there.
+Remember to download the assets and put them in a folder and run the commands in that folder. I justed just downloaded the assets to the cloned electrum folder and ran everything there.
