@@ -28,6 +28,8 @@ Remember to download the assets and put them in a folder and run the commands in
 
 And in the cloned electrum folder.
 
+Log out and log back in
+
 ```
 python3 setup.py build
 
