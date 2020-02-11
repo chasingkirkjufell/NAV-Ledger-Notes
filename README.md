@@ -21,6 +21,10 @@ python3 -m pip install btchip-python
 
 python3 -m pip install hidapi
 
+# Now go to electrum folder
+
+cd ./electrum
+
 python3 -m pip install .[fast]
 
 wget -q -O - https://raw.githubusercontent.com/LedgerHQ/udev-rules/master/add_udev_rules.sh | sudo bash
