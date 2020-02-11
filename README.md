@@ -17,6 +17,10 @@ sudo apt-get install libudev1 libudev-dev
 
 sudo apt-get install python3-setuptools
 
+python3 -m pip install btchip-python
+
+python3 -m pip install hidapi
+
 python3 -m pip install .[fast]
 
 wget -q -O - https://raw.githubusercontent.com/LedgerHQ/udev-rules/master/add_udev_rules.sh | sudo bash
